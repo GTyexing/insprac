@@ -1,2 +1,6 @@
 # Dependency directory
 node_modules
+.idea/insprac.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/workspace.xml
